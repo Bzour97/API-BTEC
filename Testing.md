@@ -38,4 +38,4 @@ Then I filled out the form with the name of a city and I chose “Oman” to see
 
 In the end, I would like to tell you that I encountered a lot of problems during my work. It happened to me that the program came out with wrong information, and this turned out to me when I performed the black box test. I also encountered several technical problems during my procedure, but I overcame them with determination, determination and challenge. .
 
-So, you wonderful teacher, whoever you are, my dear, make me successful because I worked hard and suffered a lot from back and neck pain, and thank you.
+### So, my wonderful teacher, whoever you are, my dear, make me successful because I worked hard and I suffered a lot from back and neck pain, and thank you.
