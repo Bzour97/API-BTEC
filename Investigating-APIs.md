@@ -1,7 +1,5 @@
 # READ-2-BTEC : Investigating APIs
 
-https://app.netlify.com/sites/silly-keller-c420cc/overview
-
 ## 1. LocationIQ:
 
 ### API Description:
@@ -32,7 +30,7 @@ Establish a website to help people learn about current weather and future weathe
 
 ### API Endpoints/Request URLs:
 
-https://api.weatherbit.io/v2.0/history/daily
+https://api.weatherbit.io/v2.0/forecast/daily?city=Amman,NC&key=94c2feef7ba64610b15e3c4b76a8e411
 
 ### Authentication Key:
 
@@ -50,8 +48,20 @@ As you know, my friend, this API service is for those interested in using images
 
 ### API Endpoints/Request URLs:
 
-https://api.themoviedb.org/4/list/1?api_key=<<ff7c5eeb5a7780efe3cd7fc5c828dffc86200ecd>>
+https://api.themoviedb.org/3/movie/550?api_key=a6ba3e81de477ea964444c1657c573a6
 
 ### Authentication Key:
 
-ff7c5eeb5a7780efe3cd7fc5c828dffc86200ecd
+a6ba3e81de477ea964444c1657c573a6
+
+-------------
+
+# Links:
+
+1. https://city-explorer-api-labs.herokuapp.com/
+
+2. https://app.netlify.com/sites/silly-keller-c420cc/overview
+
+3. https://github.com/Bzour97/city-explorer-api
+
+4. https://github.com/Bzour97/city-explorer

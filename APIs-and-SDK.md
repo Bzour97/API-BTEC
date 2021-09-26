@@ -52,3 +52,13 @@ API and SDK are frequently misinterpreted two concepts in software development. 
 An API is a library collection that is core language and can be used immediately, whereas an SDK is a development kit that simplifies the usage of an API. In principle, both are means to communicate with the resources of another part of the software and to manage them.
 
 An API is therefore nothing more than an interface to a service, whereas an SDK is a tool or a component collection for a certain purpose. In actuality, an SDK has an API to interact with, although you may use an API without the basic components, for example, when the API is provided via a web service.
+
+-------------
+
+# References:
+
+1. https://www.mulesoft.com/resources/api/what-is-an-api
+
+2. https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences
+
+3. https://kirusablog.medium.com/top-5-benefits-of-apis-in-business-ee1046a16d0d
