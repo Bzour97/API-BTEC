@@ -62,3 +62,5 @@ An API is therefore nothing more than an interface to a service, whereas an SDK 
 2. https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences
 
 3. https://kirusablog.medium.com/top-5-benefits-of-apis-in-business-ee1046a16d0d
+
+4. https://squareup.com/us/en/townsquare/sdk-vs-api
