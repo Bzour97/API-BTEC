@@ -60,7 +60,7 @@ a6ba3e81de477ea964444c1657c573a6
 
 1. https://city-explorer-api-labs.herokuapp.com/
 
-2. https://app.netlify.com/sites/silly-keller-c420cc/overview
+2. https://silly-keller-c420cc.netlify.app/
 
 3. https://github.com/Bzour97/city-explorer-api
 
